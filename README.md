@@ -1,5 +1,7 @@
 # Crypto Market 💰
 
+![Media_230418_004824](https://user-images.githubusercontent.com/128228440/232586120-e2d282e8-3f1a-4181-ba32-fb5d3d2975fa.gif)
+
 ## Goal
 
 The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
